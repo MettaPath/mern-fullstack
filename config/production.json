@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://michalkuzmicz87:gsmok2010@cluster0.fdfu99i.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "mettaPath mern",
+  "baseUrl": "http://localhost:5000"
+}
